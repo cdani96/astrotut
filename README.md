@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4920d095-f322-4270-a261-5da8e3495109/deploy-status)](https://app.netlify.com/sites/astro-startut/deploys)
+https://astro-startut.netlify.app/
 
 # Astro Starter Kit: Minimal
 
